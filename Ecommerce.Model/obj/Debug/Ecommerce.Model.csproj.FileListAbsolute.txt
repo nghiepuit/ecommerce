@@ -1,0 +1,10 @@
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.dll.config
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.csprojResolveAssemblyReference.cache
+D:\project .net mvc\Ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.pdb

@@ -1,0 +1,16 @@
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll.config
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Common.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Common.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.csprojResolveAssemblyReference.cache
+D:\project .net mvc\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Model.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Model.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.Migrations.InitialDB.resources
+D:\project .net mvc\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.csproj.GenerateResource.Cache
