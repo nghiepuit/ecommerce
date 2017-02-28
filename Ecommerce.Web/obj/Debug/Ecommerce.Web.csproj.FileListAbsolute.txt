@@ -69,3 +69,14 @@ D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\System.Web.Http.WebHost.xml
 D:\project .net mvc\Ecommerce\Ecommerce.Web\obj\Debug\Ecommerce.Web.csprojResolveAssemblyReference.cache
 D:\project .net mvc\Ecommerce\Ecommerce.Web\obj\Debug\Ecommerce.Web.dll
 D:\project .net mvc\Ecommerce\Ecommerce.Web\obj\Debug\Ecommerce.Web.pdb
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Autofac.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Autofac.Integration.Mvc.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\AutoMapper.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Microsoft.Owin.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Owin.dll
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Autofac.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Autofac.Integration.Mvc.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\AutoMapper.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Microsoft.Owin.xml
+D:\project .net mvc\Ecommerce\Ecommerce.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
